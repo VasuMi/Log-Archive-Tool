@@ -1,0 +1,16 @@
+# Generated archives
+archives/*.tar.gz
+
+# Tool-generated operation log
+archive_log.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Test extraction directory
+test_extract/
